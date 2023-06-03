@@ -4,9 +4,9 @@ import os, sys
 # importing pygame 
 import pygame as pg
 
-fps = pg.time.Clock()
+# testting
 
-# this is a change
+fps = pg.time.Clock()
 
 class Player(pg.sprite.Sprite):
     def __init__(self):
